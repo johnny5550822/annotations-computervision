@@ -10,5 +10,6 @@
 - Data
 - Go through [Tesseract](https://github.com/madmaze/pytesseract)
 - Develop a simple ML model on recognizing handwriting text on images, including:
-  - Text recognition on text data
-  - anything :)
+  - doing text recognition using tesseract
+  - opened-minded
+- Read research paper
