@@ -9,4 +9,6 @@
 - Discuss about last week ML materials
 - Data
 - Go through [Tesseract](https://github.com/madmaze/pytesseract)
-- Text recognition on text data
+- Develop a simple ML model on recognizing handwriting text on images, including:
+  - Text recognition on text data
+  - anything :)
